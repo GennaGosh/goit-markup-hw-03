@@ -209,6 +209,7 @@ img {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  padding-bottom: 94px;
 
 }
 .name {
@@ -235,7 +236,6 @@ img {
 
 .footer {
   background-color: #2F303A;
-  ;
 }
 .logo-web-footer {
   color: #FFFFFF;
