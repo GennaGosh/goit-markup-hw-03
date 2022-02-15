@@ -33,6 +33,7 @@ img {
 .header {
   padding-top: 25px;
   padding-bottom: 25px;
+  border: 1px solid #ECECEC
 }
 .header-container {
   display: flex;
@@ -262,6 +263,7 @@ img {
 .list-btn {
   display: flex;
   justify-content: center;
+  margin-top: 94px;
 }
 
 .item-btn {
