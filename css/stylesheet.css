@@ -231,6 +231,15 @@ img {
   color: #757575;
 }
 /* -----FOOTER----- */
+
+.footer {
+  background-color: #2F303A;
+  ;
+}
+.logo-web-footer {
+  color: #FFFFFF;
+
+}
 .address-street {
   font-family: "Roboto", sans-serif;
   font-style: normal;
