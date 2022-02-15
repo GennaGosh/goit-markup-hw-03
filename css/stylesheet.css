@@ -236,10 +236,28 @@ img {
 
 .footer {
   background-color: #2F303A;
+
+}
+.container-footer {
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  
+}
+.footer-logo {
+  padding-top: 60px;
+  
+ 
 }
 .logo-web-footer {
   color: #FFFFFF;
 
+}
+.address-footer {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 60px;
+  
 }
 .address-street {
   font-family: "Roboto", sans-serif;
@@ -249,6 +267,9 @@ img {
   line-height: 1.7;
   letter-spacing: 0.03em;
   color: #FFFFFF;
+
+ 
+  
 }
 .address-contact {
   font-family: "Roboto", sans-serif;
@@ -258,6 +279,9 @@ img {
   line-height: 1.7;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
+  
+  
+  
 }
 /* -----PORTFOLIO----- */
 .list-btn {
