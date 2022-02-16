@@ -311,12 +311,16 @@ img {
   line-height: 1.6;
   text-align: center;
   letter-spacing: 0.03em;
+  padding: 6px 22px;
   
+}
+.btn:not(:last-child) {
+  padding-right: 8px;
 }
 
 
 .item-btn:hover,
-.nav-item-btn:focus {
+.item-btn:focus {
   background-color: #2196f3;
   color: #ffffff;
 }
